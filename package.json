@@ -1,5 +1,5 @@
 {
-  "name": "grunt-tslint",
+  "name": "grunt-tslint-ftl",
   "description": "Grunt plugin for TypeScript Linter.",
   "version": "4.0.0",
   "homepage": "https://github.com/palantir/grunt-tslint",
